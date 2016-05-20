@@ -1,0 +1,2 @@
+dynamic - over ridding
+static, function overload,operator overload

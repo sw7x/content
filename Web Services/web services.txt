@@ -1,0 +1,9 @@
+
+All the standard web services work using the following components
+SOAP (Simple Object Access Protocol)
+UDDI (Universal Description, Discovery and Integration)
+WSDL (Web Services Description Language)
+
+
+
+2

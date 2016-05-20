@@ -1,0 +1,35 @@
+oop -- > lareavel
+
+less
+wordpress
+wordpress plugin dev
+multi site
+location search.....
+bootstrap
+pluton
+photoshop
+flex box
+live reload....
+bookmarklets
+vertical center
+css units em,rm,vw,vh
+border box
+git fetch ,pull
+SEO - html5
+use semantic tags
+using comments in css
+js modular
+js debug
+js troubleshooting
+asyn defer script tag
+
+
+
+
+
+html lang attribute
+noramalize csss
+HTML5 shim
+focs
+
+disable upwork
